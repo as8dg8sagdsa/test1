@@ -1,0 +1,23 @@
+What is Github?
+GitHub is a cloud-based Git repository service, it allows the use of distributed version control and source code management.
+
+Using branching and merging on your local machine to manage code versioning.
+Using branching you can make an offshoot version of an existing repository and make your own changes to it as you see fit.
+Using merging you can merge files from one branch into another.
+
+How does clone differ from fork?
+Clone makes a copy of a repository onto your local machine, where fork makes a copy on Github.
+
+Pushing changes to a repository to github
+When you've made changes to a file in the github clone on your machine you can push those changes to the branch you're working in.
+When pushing a change you should include a note of the changes made.
+
+What is a Pull request?
+A pull request notifies the repository owner that you've made changes and would like them to merge the changes with their repository.
+
+How do you deal with merge conflicts
+On github it will notify you of merge conflicts and allow you to decide if you want to keep only the changes in your branch, only the other branches changes, or make a new different change.
+
+User management and security
+In order to push changes you need to provide your username(email) and a personal access token
+For other people to push changes they also need the access token
